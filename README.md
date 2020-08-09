@@ -168,7 +168,7 @@ sudo su - your-user
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/muscleman/cryptonote-nodejs-pool.git pool
+git clone https://github.com/dvandal/cryptonote-nodejs-pool.git pool
 cd pool
 
 npm update
@@ -643,7 +643,7 @@ node init.js -module=api
 [Example screenshot](http://i.imgur.com/SEgrI3b.png) of running the pool in single module mode with tmux.
 
 To keep your pool up, on operating system with systemd, you can create add your pool software as a service.  
-Use this [example](https://github.com/muscleman/cryptonote-nodejs-pool/blob/master/deployment/cryptonote-nodejs-pool.service) to create the systemd service `/lib/systemd/system/cryptonote-nodejs-pool.service`
+Use this [example](https://github.com/dvandal/cryptonote-nodejs-pool/blob/master/deployment/cryptonote-nodejs-pool.service) to create the systemd service `/lib/systemd/system/cryptonote-nodejs-pool.service`
 Then enable and start the service with the following commands : 
 
 ```
@@ -796,16 +796,22 @@ Donations
 
 Thanks for supporting my works on this project! If you want to make a donation to [Dvandal](https://github.com/dvandal/), the developper of this project, you can send any amount of your choice to one of theses addresses:
 
-* Bitcoin (BTC): `17XRyHm2gWAj2yfbyQgqxm25JGhvjYmQjm`
-* Bitcoin Cash (BCH): `qpl0gr8u3yu7z4nzep955fqy3w8m6w769sec08u3dp`
-* Ethereum (ETH): `0x83ECF65934690D132663F10a2088a550cA201353`
+* Bitcoin (BTC): `392gS9zuYQBghmMpK3NipBTaQcooR9UoGy`
+* Bitcoin Cash (BCH): `qp46fz7ht8xdhwepqzhk7ct3aa0ucypfgv5qvv57td`
+* Dash (DASH): `XgFnxEu1ru7RTiM4uH1GWt2yseU1BVBqWL`
+* Ethereum (ETH): `0x8c42D411545c9E1963ff56A91d06dEB8C4A9f444`
+* Ethereum Classic (ETC): `0x4208D6775A2bbABe64C15d76e99FE5676F2768Fb`
 * Litecoin (LTC): `LS9To9u2C95VPHKauRMEN5BLatC8C1k4F1`
-* Monero (XMR): `49WyMy9Q351C59dT913ieEgqWjaN12dWM5aYqJxSTZCZZj1La5twZtC3DyfUsmVD3tj2Zud7m6kqTVDauRz53FqA9zphHaj`
+* USD Coin (USDC): `0xb5c6BEc389252F24dd3899262AC0D2754B0fC1a3`
+* Augur (REP): `0x5A66CE95ea2428BC5B2c7EeB7c96FC184258f064`
+* Basic Attention Token (BAT): `0x5A66CE95ea2428BC5B2c7EeB7c96FC184258f064`
+* Chainlink (LINK): `0x5A66CE95ea2428BC5B2c7EeB7c96FC184258f064`
+* Dai (DAI): `0xF2a50BcCEE8BEb7807dA40609620e454465B40A1`
 * Graft (GRFT): `GBqRuitSoU3PFPBAkXMEnLdBRWXH4iDSD6RDxnQiEFjVJhWUi1UuqfV5EzosmaXgpPGE6JJQjMYhZZgWY8EJQn8jQTsuTit`
-* Haven (XHV): `hvxy2RAzE7NfXPLE3AmsuRaZztGDYckCJ14XMoWa6BUqGrGYicLCcjDEjhjGAQaAvHYGgPD7cGUwcYP7nEUs8u6w3uaap9UZTf`
-* IntenseCoin (ITNS): `iz4fRGV8XsRepDtnK8XQDpHc3TbtciQWQ5Z9285qihDkCAvB9VX1yKt6qUCY6sp2TCC252SQLHrjmeLuoXsv4aF42YZtnZQ53`
-* Masari (MSR): `5n7mffxVT9USrq7tcG3TM8HL5yAz7MirUWypXXJfHrNfTcjNtDouLAAGex8s8htu4vBpmMXFzay8KG3jYGMFhYPr2aMbN6i`
-* Stellite (XTL): `Se45GzgpFG3CnvYNwEFnxiRHD2x7YzRnhFLdxjUqXdbv3ysNbfW5U7aUdn87RgMRPM7xwN6CTbXNc7nL5QUgcww11bDeypTe1`
+* Orchid (OXT): `0xf52488AAA1ab1b1EB659d6632415727108600BCb`
+* Tezos (XTZ): `tz1T1idcT5hfyjfLHWeqbYvmrcYn5JgwrJKW`
+* Zcash (ZCH): `t1YTGVoVbeCuTn3Pg9MPGrSqweFLPGTQ7on`
+* 0x (ZRX): `0x4e52AAfC6dAb2b7812A0a7C24a6DF6FAab65Fc9a`
 
 
 Credits
@@ -813,7 +819,6 @@ Credits
 
 * [fancoder](//github.com/fancoder) - Developper on cryptonote-universal-pool project from which current project is forked.
 * dvandal (//github.com/dvandal) - Developer of cryptonote-nodejs-pool software
-* Musclesonvacation (//github.com/muscleman) - Current developer for pool software
 
 License
 -------

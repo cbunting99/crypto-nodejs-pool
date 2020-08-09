@@ -1,0 +1,283 @@
+2020-07-21 15:54:31
+Error: ENOENT: no such file or directory, stat 'logs/pool_warn.log'
+    at Object.statSync (fs.js:871:3)
+    at handleAdminLog (/home/pool/pools/cryptonote-nodejs-pool/lib/api.js:2003:24)
+    at handleServerRequest (/home/pool/pools/cryptonote-nodejs-pool/lib/api.js:149:4)
+    at Server.<anonymous> (/home/pool/pools/cryptonote-nodejs-pool/lib/api.js:2285:2)
+    at Server.emit (events.js:193:13)
+    at parserOnIncoming (_http_server.js:680:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:113:17)
+
+2020-07-21 20:53:29
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:176:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:53:29
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:194:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:53:29
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:185:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:54:32
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:176:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:54:32
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:194:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:54:32
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:185:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:55:34
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:176:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:55:34
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:194:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:55:34
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:185:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:56:36
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:176:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:56:36
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:194:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:56:36
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:185:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:57:38
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:176:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:57:38
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:194:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:57:38
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:185:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:58:41
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:176:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:58:41
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:194:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:58:41
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:185:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:59:45
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:176:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:59:45
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:194:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+
+2020-07-21 20:59:45
+TypeError: Cannot read property 'forEach' of null
+    at storeCollectedValue (/home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:102:9)
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:138:4
+    at fn (/home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:746:34)
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1213:16
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:166:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:706:43
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:167:37
+    at /home/pool/pools/cryptonote-nodejs-pool/node_modules/async/lib/async.js:1209:30
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:185:3
+    at /home/pool/pools/cryptonote-nodejs-pool/lib/charts.js:167:3
+

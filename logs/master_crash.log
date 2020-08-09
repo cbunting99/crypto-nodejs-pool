@@ -1,0 +1,5 @@
+2020-07-22 16:39:09
+ReplyError: ERR DB index is out of range
+    at parseError (/home/pool/pools/cryptonote-nodejs-pool/node_modules/redis-parser/lib/parser.js:179:12)
+    at parseType (/home/pool/pools/cryptonote-nodejs-pool/node_modules/redis-parser/lib/parser.js:302:14)
+
