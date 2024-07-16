@@ -26,7 +26,7 @@
 		"nodemailer-sendmail-transport": "*",
 		"nodemon": "^3.1.4",
 		"redis": "3.1.2",
-		"socket.io": "3.1.1",
+		"socket.io": "4.7.5",
 		"time-ago": "*",
 		"utf-8-validate": "*"
 	},
