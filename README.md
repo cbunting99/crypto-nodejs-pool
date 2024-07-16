@@ -1,4 +1,4 @@
-This pool may or may not install. It is being used for a personal project!
+This pool is currently being edited for a personal project. It may or may not install at this time!
 
 ```
 sudo apt-get install build-essential libsodium-dev libboost-all-dev libgmp3-dev node-gyp libssl-dev -y
