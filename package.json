@@ -21,6 +21,7 @@
 		"domexception": "*",
 		"mailgun.js": "*",
 		"multi-hashing": "https://github.com/cbunting99/node-multi-hashing",
+		"plex-hashing": "https://github.com/cbunting99/plex-hashing.git",
 		"node-telegram-bot-api": "*",
 		"nodemailer": "*",
 		"nodemailer-sendmail-transport": "*",
