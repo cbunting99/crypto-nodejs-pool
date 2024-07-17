@@ -20,7 +20,7 @@
 		"discord.js": "^12.5.1",
 		"domexception": "*",
 		"mailgun.js": "*",
-		"multi-hashing": "https://github.com/cbunting99/node-multi-hashing",,
+		"multi-hashing": "https://github.com/cbunting99/node-multi-hashing",
 		"node-telegram-bot-api": "*",
 		"nodemailer": "*",
 		"nodemailer-sendmail-transport": "*",
