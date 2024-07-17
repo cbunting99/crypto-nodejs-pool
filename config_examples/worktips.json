@@ -1,5 +1,5 @@
 {
-    "poolHost": "your.pool.host",
+    "poolHost": "10.0.0.165",
 
     "coin": "worktips",
     "symbol": "WTIP",
@@ -141,7 +141,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "your_password",
+        "password": "chris101",
         "ssl": false,
         "sslPort": 8119,
         "sslCert": "./cert.pem",
@@ -158,7 +158,7 @@
     "wallet": {
         "host": "127.0.0.1",
         "port": 8082,
-        "password": "rpc_password"
+        "password": "chris101"
     },
 
     "redis": {
