@@ -17,7 +17,7 @@
 		"cryptoforknote-util": "https://github.com/cbunting99/node-cryptoforknote-util",
 		"cryptonight-hashing": "https://github.com/cbunting99/node-cryptonight-hashing",
 		"dateformat": "4.5.1",
-		"discord.js": "*",
+		"discord.js": "^12.5.1",
 		"domexception": "*",
 		"mailgun.js": "*",
 		"multi-hashing": "https://github.com/cbunting99/node-multi-hashing",,
